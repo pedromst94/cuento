@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cuento/static/css/main.c4f8d10d.css",
+    "main.js": "/cuento/static/js/main.7210ddc5.js",
+    "static/js/787.861e9ee9.chunk.js": "/cuento/static/js/787.861e9ee9.chunk.js",
+    "static/media/historia.mp3": "/cuento/static/media/historia.a16c9e538e118e278191.mp3",
+    "static/media/sueño.jpg": "/cuento/static/media/sueño.79f6b80ba6303a006d2a.jpg",
+    "static/media/GreatVibes-Regular.ttf": "/cuento/static/media/GreatVibes-Regular.6d246c3b51d7eb58b13a.ttf",
+    "static/media/hada.jpg": "/cuento/static/media/hada.f4ba161c81e90dd4f6f7.jpg",
+    "static/media/camaCorazon.jpg": "/cuento/static/media/camaCorazon.7be0fc6472aace42dbc2.jpg",
+    "static/media/chicaDescuidada.jpg": "/cuento/static/media/chicaDescuidada.41b74a8f22699ff95464.jpg",
+    "static/media/siesta.jpg": "/cuento/static/media/siesta.604b1a28d65945e943e1.jpg",
+    "static/media/robar.jpg": "/cuento/static/media/robar.5ac1acb36eded6a56ed2.jpg",
+    "static/media/tresOsos.jpg": "/cuento/static/media/tresOsos.f00fb67552ccb9f42fcc.jpg",
+    "static/media/tresCamas.jpeg": "/cuento/static/media/tresCamas.d81c734209fea9d980ac.jpeg",
+    "static/media/tresCerdos.jpg": "/cuento/static/media/tresCerdos.be88b6402df890fc596e.jpg",
+    "static/media/leon.jpg": "/cuento/static/media/leon.fbc520a62f275aa3eaee.jpg",
+    "static/media/Fin.png": "/cuento/static/media/Fin.5d0950f771e0dce3e83e.png",
+    "index.html": "/cuento/index.html",
+    "main.c4f8d10d.css.map": "/cuento/static/css/main.c4f8d10d.css.map",
+    "main.7210ddc5.js.map": "/cuento/static/js/main.7210ddc5.js.map",
+    "787.861e9ee9.chunk.js.map": "/cuento/static/js/787.861e9ee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4f8d10d.css",
+    "static/js/main.7210ddc5.js"
+  ]
+}
