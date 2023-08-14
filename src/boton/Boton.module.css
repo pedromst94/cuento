@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'letraDeCuento';
+    src: url('../fonts/GreatVibes-Regular.ttf') format('truetype');
+  }
+
+
+.boton {
+    font-family: 'letraDeCuento';
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    margin: 1rem 1rem;
+    font-weight: 600;
+    font-size: 1.2em;
+}

@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'letraDeCuento';
+    src: url('../fonts/GreatVibes-Regular.ttf') format('truetype');
+  }
+
+.header {
+    box-sizing: border-box;
+    width: 100%;
+    font-family: 'letraDeCuento';
+    background-color: rgb(82, 13, 112);
+    color: rgb(228, 168, 16);
+    height: 6rem;
+    font-size: 2rem;
+    margin-top: 0;
+    padding-top: 1rem;
+    margin-bottom: 5rem;
+    border-top: 0.25rem solid white;
+    border-bottom: 0.25rem solid white;
+}
+
+.titulo {
+    margin-top: 0;
+}
